@@ -1,5 +1,4 @@
 <br/>
-<br/>
 
 <h1 align="center">Hi 👋🏻  I'm Smita Patange</h1>
 <h3 align="center"> Full Stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
