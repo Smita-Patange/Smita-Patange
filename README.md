@@ -1,6 +1,6 @@
 <br/>
 
-<h1 align="center"> नमस्ते (Namaste), I'm Smita Patange</h1>
+<h1 align="center"> नमस्ते, I'm Smita Patange</h1>
 <h3 align="center"> Full Stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
 <h4 align="center"></h4>
 
