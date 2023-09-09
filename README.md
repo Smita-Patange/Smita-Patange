@@ -1,16 +1,18 @@
-### Hi there 👋
+<br/>
+<br/>
 
-<!--
-**Smita-Patange/Smita-Patange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋🏻  I'm Smita Patange</h1>
+<h3 align="center"> Full Stack Developer 💻 | Loves React JS ⚛️ | OpenSourcer ✅</h3>
+<h4 align="center">I'm a tech enthusiast who loves to learn about new things.</h4>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning React JS
+- 👯  I’m looking to collaborate with other open source contributor.
+- 📫 How to reach me: **patangemanali111@gmail.com**
+- 📄 Check out my resume [here]()
+ 
+<br />
+<br />
+
