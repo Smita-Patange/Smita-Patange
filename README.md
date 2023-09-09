@@ -8,7 +8,8 @@
 
 
 - 🌱 I’m currently learning React JS
-- 👯  I’m looking to collaborate with other open source contributor.
+- 👯 I’m looking to collaborate with other open source contributor.
+- 💻 Expert in HTML, CSS, Boostrap, PHP, Javacript, Moodle.
 - 📫 How to reach me: **patangemanali111@gmail.com**
 - 📄 Check out my resume [here]()
  
